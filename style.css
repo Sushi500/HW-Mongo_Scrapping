@@ -1,0 +1,12 @@
+.card {
+    margin: 50px 100px;
+}
+
+
+.search-term-container, .records-retreive-container, .star-year-container, .end-year-container, label {
+    margin: 5px;
+}
+
+.btn {
+    margin: 20px 5px;
+}
